@@ -4,5 +4,6 @@ class Main {
         System.out.println("Какие-то изменения-1");
         System.out.println("Какие-то изменения-2");
         System.out.println("Какие-то изменения-3");
+        System.out.println("Какие-то изменения-4");
     }
 }
