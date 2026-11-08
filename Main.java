@@ -3,5 +3,6 @@ class Main {
         System.out.print("Это добавлено в ветке main");
         System.out.println("Строка 1");
         System.out.println("Строка 2");
+        System.out.println("Строка 3");
     }
 }
