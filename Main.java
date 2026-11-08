@@ -5,5 +5,6 @@ class Main {
         System.out.println("Строка 2");
         System.out.println("Строка 3");
         System.out.println("Строка 4");
+        System.out.println("Какие-то финальные изменения");
     }
 }
